@@ -30,6 +30,6 @@ Genius (Kinda) · Billionaire (Not Yet) · Rookie · Wannabe The Greatest Progra
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Venkatesh-Shenoy-181920&show_icons=true&theme=dark)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Venkatesh-Shenoy-181920&theme=dark)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Venkatesh-Shenoy-181920&layout=compact&theme=dark)
 
 </div>
