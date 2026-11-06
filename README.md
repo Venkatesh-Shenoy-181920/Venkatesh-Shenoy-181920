@@ -2,7 +2,7 @@
 
 # About Me
 
-Genius (Kinda) · Billionaire (Not Yet) · Rookie · Wannabe The Greatest Programmer That's Ever Lived
+Genius (Kinda) · Billionaire (Not Yet) · The Greatest Programmer That's Ever Lived
 
 ---
 
