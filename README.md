@@ -35,6 +35,13 @@ Genius (Kinda) · Billionaire (Not Yet) · The Greatest Programmer That's Ever L
 
 ## 📊 GitHub Stats
 
+### Contribution Activity
+![Contribution Graph](https://ghchart.rshah.org/41CD52/Venkatesh-Shenoy-181920)
+
+### Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Venkatesh-Shenoy-181920&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+### Top Languages
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Venkatesh-Shenoy-181920&layout=compact&theme=dark&cache_seconds=1)
 
 </div>
